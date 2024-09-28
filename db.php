@@ -2,7 +2,7 @@
 class Database {
     private $host = "www.server.daossystem.pro";
     private $port = "3301";
-    private $db_name = "heroku_a0591520c83c92b";
+    private $db_name = "desaweb_2024_sp";
     private $username = "usr_desaweb_2024_sp";
     private $password = "5sr_d2s1w2b_2024_sp";
     public $conn;
