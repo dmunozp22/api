@@ -1,0 +1,8 @@
+{
+    "name": "vehiculosapi/app",
+    "description": "API para gestionar vehículos",
+    "require": {
+        "ext-pdo": "*",
+        "php": "^7.3 || ^8.0"
+    }
+}
